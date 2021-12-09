@@ -1,6 +1,8 @@
 # Theta Drop Connect Example
 
-Example on using [Theta Drop Connect](https://github.com/thetatoken/theta-drop-connect) library to prove ownership of NFTs.
+Example on using [Theta Drop Connect](https://docs.thetatoken.org/docs/theta-drop-connect) library to prove ownership of NFTs.
+
+Docs here: https://docs.thetatoken.org/docs/theta-drop-connect
 
 ### `yarn start`
 
